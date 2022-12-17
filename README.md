@@ -5,13 +5,13 @@ Early detection of Breast Cancer can help treatment to be duly started, intended
 
 For this case study, two classificatoin models are developed and compared, one machine learning and the other one is deep learning:
 
-1.	**Machine learning**. A logistic regression model is developed using python sklearn library.<br/>
+**Machine learning**. A logistic regression model is developed using python sklearn library.<br/>
 Assumptions are binary outcome, features should not be too highly correlated with each other and linearity of independent variables and log odds.<br/>
 Model predicts an outcome of benign or malignant based on features.<br/>
 Model quality is determined by using 4 metrics i.e. accuracy, precision, recall and f-1 score.<br/>
 Data play nice with the suggested method<br/>
 
-2.	**Deep learning**. An Artifical Neural Network (ANN) model is developed using python tensorflow library.<br/>
+**Deep learning**. An Artifical Neural Network (ANN) model is developed using python tensorflow library.<br/>
 No specific assumptions are made on data and their distrbutions.<br/>
 Model predicts an outcome of benign or malignant based on features.<br/>
 Model quality is determined by using 4 metrics i.e. accuracy, precision, recall and f-1 score.<br/>
