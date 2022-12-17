@@ -44,3 +44,10 @@ TP = true positive, TN = true negative, FP = false positive, FN = false negative
 * **Precision** is class based prediction accuracy of the model (TP/TP+FP)
 * **Recall/sensitivity** is the class based evaluation against truth (TP/TP+FN)
 * **f1-score** is used to represent both precision and recall (harmonic mean)
+
+### Evaluate model performance
+
+![image](https://user-images.githubusercontent.com/37245809/208226656-8234ef6c-4e88-4a0c-bb6c-744ffbf91516.png)
+
+![image](https://user-images.githubusercontent.com/37245809/208226693-83834301-65a4-4d26-bc8d-5345e09d1a15.png)
+
